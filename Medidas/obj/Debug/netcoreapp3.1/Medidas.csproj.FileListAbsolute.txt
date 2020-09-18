@@ -1,0 +1,13 @@
+C:\Users\Max Leonel\Desktop\Medidas\Medidas\bin\Debug\netcoreapp3.1\Medidas.exe
+C:\Users\Max Leonel\Desktop\Medidas\Medidas\bin\Debug\netcoreapp3.1\Medidas.deps.json
+C:\Users\Max Leonel\Desktop\Medidas\Medidas\bin\Debug\netcoreapp3.1\Medidas.runtimeconfig.json
+C:\Users\Max Leonel\Desktop\Medidas\Medidas\bin\Debug\netcoreapp3.1\Medidas.runtimeconfig.dev.json
+C:\Users\Max Leonel\Desktop\Medidas\Medidas\bin\Debug\netcoreapp3.1\Medidas.dll
+C:\Users\Max Leonel\Desktop\Medidas\Medidas\bin\Debug\netcoreapp3.1\Medidas.pdb
+C:\Users\Max Leonel\Desktop\Medidas\Medidas\obj\Debug\netcoreapp3.1\Medidas.csprojAssemblyReference.cache
+C:\Users\Max Leonel\Desktop\Medidas\Medidas\obj\Debug\netcoreapp3.1\Medidas.AssemblyInfoInputs.cache
+C:\Users\Max Leonel\Desktop\Medidas\Medidas\obj\Debug\netcoreapp3.1\Medidas.AssemblyInfo.cs
+C:\Users\Max Leonel\Desktop\Medidas\Medidas\obj\Debug\netcoreapp3.1\Medidas.csproj.CoreCompileInputs.cache
+C:\Users\Max Leonel\Desktop\Medidas\Medidas\obj\Debug\netcoreapp3.1\Medidas.dll
+C:\Users\Max Leonel\Desktop\Medidas\Medidas\obj\Debug\netcoreapp3.1\Medidas.pdb
+C:\Users\Max Leonel\Desktop\Medidas\Medidas\obj\Debug\netcoreapp3.1\Medidas.genruntimeconfig.cache
